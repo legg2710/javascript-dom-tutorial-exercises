@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://plum-tortoise-j984bi61.ws-us10.gitpod.io",
+    "address": "https://plum-tortoise-j984bi61.ws-us15.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -132,7 +132,7 @@
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Remove-DOM-Element-part-two",
             "translations": [
                 "es",
@@ -143,7 +143,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
@@ -154,7 +154,7 @@
         {
             "slug": "11-Add-LI-on-Click",
             "title": "11-Add-LI-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Add-LI-on-Click",
             "translations": [
                 "es",
@@ -165,7 +165,7 @@
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "es",
@@ -176,7 +176,7 @@
         {
             "slug": "13-Add-Options-to-the-Select",
             "title": "13-Add-Options-to-the-Select",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Add-Options-to-the-Select",
             "translations": [
                 "es",
@@ -187,7 +187,7 @@
         {
             "slug": "14-Todo-List",
             "title": "14-Todo-List",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Todo-List",
             "translations": [
                 "es",
